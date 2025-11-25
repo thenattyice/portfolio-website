@@ -1,0 +1,15 @@
+body {
+  background-image: url("/images/background.jpg");
+}
+
+.main-container {
+  display: flex;
+  justify-content: center; /* centers horizontally */
+  align-items: center; /* centers vertically */
+  min-height: 100vh; /* makes container full viewport height */
+}
+
+.main-text {
+  color: white;
+  font-family: "Lucida Console", monospace;
+}
